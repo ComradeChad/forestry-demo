@@ -15,6 +15,8 @@ This is a **bold** word
 
     
 
+***
+
 # The Basic Components of a Regular Expression
 
 A Regular expression (usually abbreviated as regex) is a distinct collection of characters that establish a search pattern. This guide will help you get started with regular expressions by going over the essential components that can be used to define them.

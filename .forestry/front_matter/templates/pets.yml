@@ -11,3 +11,5 @@ fields:
 - type: file
   name: pet_picture
   label: Pet Picture
+pages:
+- my-pets.md

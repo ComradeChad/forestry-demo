@@ -1,0 +1,13 @@
+---
+label: Pets
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: name_your_pet
+  label: Name your Pet
+  config:
+    required: true
+- type: file
+  name: pet_picture
+  label: Pet Picture

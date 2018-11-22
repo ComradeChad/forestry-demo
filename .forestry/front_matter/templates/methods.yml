@@ -1,0 +1,24 @@
+---
+label: Methods
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titlle
+  name: titlle
+  description: Enter the name of the method
+  config:
+    required: true
+- type: select
+  name: adsdadsadsa
+  config:
+    source:
+      type: documents
+  label: adsd
+  description: dsadas
+- type: datetime
+  name: adsadsadasd
+  label: adsad
+  description: sadasdas
+  config:
+    required: true
